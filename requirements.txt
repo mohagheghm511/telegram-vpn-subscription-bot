@@ -1,0 +1,6 @@
+aiogram
+python-dotenv==1.0.0
+aiosqlite==0.20.0
+jdatetime
+qrcode[pil]
+pasarguard
