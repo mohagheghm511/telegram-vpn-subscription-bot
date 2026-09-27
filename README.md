@@ -2,7 +2,7 @@
 
 # 🔐 Telegram Subscription Sales Bot: Automatic Payment & Delivery
 
-**A production Telegram bot that sells VPN/service subscriptions from start to finish.** Payments are confirmed automatically and the service is created and delivered on the spot, with no admin involvement.
+**A production Telegram bot that sells service subscriptions from start to finish.** Payments are confirmed automatically and the service is created and delivered on the spot, with no admin involvement.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![aiogram](https://img.shields.io/badge/aiogram-3.x-2CA5E0?logo=telegram&logoColor=white)
